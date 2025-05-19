@@ -37,11 +37,6 @@ class MainApp extends StatelessWidget {
           displayColor: Colors.white,
         ),
       ),
-
-      //  initialRoute: "/",
-      //  routes: {
-      // "/" : (context) =>Inicio()
-      //},
     );
   }
 }
